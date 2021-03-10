@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Self</string>
+    <string name="main_title_screen">Self. Gratitude. Journal</string>
+    <string name="grateful_q_text">What are you grateful for today?</string>
+    <string name="start_main_button_title">GET STARTED</string>
+    <string name="log_in">Login</string>
+    <string name="or">Or</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="username_text">Username</string>
+    <string name="title">Title</string>
+    <string name="your_thoughts">Your Thoughts...</string>
+    <string name="save">Save</string>
+    <string name="gina">Gina</string>
+    <string name="today">Today</string>
+    <string name="menu_title_thoughts">Add Thoughts</string>
+    <string name="menu_title_signOut">Sign out</string>
+    <string name="no_thought_hint">Write Journal Entry by clicking the "+" icon above</string>
+    <string name="journal_image">Journal Image</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="are_you_sure">Are you sure?</string>
+</resources>

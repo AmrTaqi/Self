@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186069189122",
+    "firebase_url": "https://self-ab159.firebaseio.com",
+    "project_id": "self-ab159",
+    "storage_bucket": "self-ab159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186069189122:android:99cf1766dd8a43858a5d1b",
+        "android_client_info": {
+          "package_name": "com.ammt.self"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186069189122-fb2hr0t68dv7ioer1s9n6dbul86isu5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPPZHKLVUrW1j2F9nCtXKuFZS0BkIUbe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186069189122-fb2hr0t68dv7ioer1s9n6dbul86isu5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
